@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>☕ Brewed by Coffee, Powered by Code. 💻</h1>
+  <h1> Brewed by Coffee, Powered by Code. </h1>
   <p><i>Welcome to my creative space! I'm Muhammad Ditto (Idoo0oo).</i></p>
 </div>
 
@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-Bukan sekadar menulis baris kode, saya adalah mahasiswa Informatika yang antusias mengubah ide-ide gila menjadi solusi digital nyata! 🚀 Perjalanan saya membentang dari eksplorasi teori di kelas hingga eksekusi langsung di berbagai project *freelance* dan *client work*. Buat saya, *ngoding* itu bukan cuma soal bikin program jalan, tapi merancang pengalaman *user* yang *seamless* dan berkarakter. Kalau nggak lagi *nge-bug*, kemungkinan besar saya lagi ngopi atau *brainstorming* project seru selanjutnya! *Let's build something awesome together!* ✨
+Bukan sekadar menulis baris kode, saya adalah mahasiswa Informatika yang antusias mengubah ide-ide gila menjadi solusi digital nyata! Perjalanan saya membentang dari eksplorasi teori di kelas hingga eksekusi langsung di berbagai project *freelance* dan *client work*. Buat saya, *ngoding* itu bukan cuma soal bikin program jalan, tapi merancang pengalaman *user* yang *seamless* dan berkarakter. Kalau nggak lagi *nge-bug*, kemungkinan besar saya lagi ngopi atau *brainstorming* project seru selanjutnya! *Let's build something awesome together!*
 
 ## 🛠️ Tech Stack
 
