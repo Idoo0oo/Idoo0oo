@@ -1,59 +1,97 @@
 <div align="center">
-  <h1> Brewed by Coffee, Powered by Code. </h1>
-  <p><i>Welcome to my creative space! I'm Muhammad Ditto (Idoo0oo).</i></p>
+
+<pre>
+██████╗ ██╗████████╗████████╗ ██████╗ 
+██╔══██╗██║╚══██╔══╝╚══██╔══╝██╔═══██╗
+██║  ██║██║   ██║      ██║   ██║   ██║
+██║  ██║██║   ██║      ██║   ██║   ██║
+██████╔╝██║   ██║      ██║   ╚██████╔╝
+╚═════╝ ╚═╝   ╚═╝      ╚═╝    ╚═════╝ 
+</pre>
+
+### Muhammad Ditto · Full-Stack Developer & Freelancer
+*Mahasiswa Informatika yang terlalu sering ngoding jam 2 pagi.*
+
+[![Portfolio](https://img.shields.io/badge/→_Portfolio-000000?style=for-the-badge&logoColor=white)](https://muhammadditto.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadditto)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Cerita singkat
 
-Bukan sekadar menulis baris kode, saya adalah mahasiswa Informatika yang antusias mengubah ide-ide gila menjadi solusi digital nyata! Perjalanan saya membentang dari eksplorasi teori di kelas hingga eksekusi langsung di berbagai project *freelance* dan *client work*. Buat saya, *ngoding* itu bukan cuma soal bikin program jalan, tapi merancang pengalaman *user* yang *seamless* dan berkarakter. Kalau nggak lagi *nge-bug*, kemungkinan besar saya lagi ngopi atau *brainstorming* project seru selanjutnya! *Let's build something awesome together!*
+Saya mulai ngoding bukan karena ingin jadi programmer — saya mulai karena ingin **bikin sesuatu yang nyata** dan bisa dipakai orang lain.
 
-## 🛠️ Tech Stack
+Sekarang, saya sudah menyelesaikan beberapa project *freelance* yang benar-benar digunakan di lapangan: dari **sistem ERP logistik** untuk perusahaan kontainer (lengkap dengan manajemen armada, penggajian supir, dan laporan keuangan Excel) sampai **company profile** dengan CI/CD deployment otomatis ke cPanel via GitHub Actions.
 
-**Frontend**  
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![Vue_3](https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Framer_Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+Saya bukan tipe yang belajar teknologi untuk sekadar naruh badge di GitHub. Saya belajar kalau ada **masalah yang perlu diselesaikan.**
 
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-**Languages & Tools**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Zod](https://img.shields.io/badge/Zod-3068b7?style=for-the-badge&logo=zod&logoColor=white) ![Multer](https://img.shields.io/badge/Multer-FF9900?style=for-the-badge&logo=npm&logoColor=white)
+## 🛠 Tech Stack
 
-## 🚀 Featured Projects
+**Languages**
 
-### 📚 [Sastra.in](https://github.com/Idoo0oo/ukk-perpustakaan)
-Library Management System *fullstack* yang dibalut dengan desain visual *Neo-Brutalism* yang unik. Dilengkapi fitur esensial seperti *Role-Based Access Control* (Admin/Peminjam), kalkulasi denda otomatis, *generate* laporan, hingga *upload* cover buku.
-> **Stack:** React 19, Vite, TailwindCSS, Express.js, MySQL
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🎫 [QR Event App](https://github.com/Idoo0oo/qr-event-app)
-Sistem modern untuk registrasi dan absensi *event* berbasis pemindaian QR Code. Memudahkan manajemen peserta agar *flow* acara berjalan cepat, aman, dan terekap rapi.
-> **Stack:** Vue 3, Node.js, Express.js
+**Frontend**
 
-### 🌐 [Personal Portfolio](https://mhmmditto.vercel.app/)
-Website portofolio interaktif yang merangkum identitas, *showcase* karya, dan perjalanan *personal branding* saya sebagai seorang developer.
-> **Stack:** TypeScript, React
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Backend & API**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+**Database & ORM**
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+---
+
+## 🗂 Project yang Nyata
+
+| Project | Deskripsi | Stack |
+|---|---|---|
+| **Logistics ERP** | Sistem operasional internal perusahaan container haulage — armada, gaji supir, invoice | Node.js · React · MySQL · Sequelize |
+| **Company Profile** | Landing page + CI/CD auto-deploy ke cPanel via GitHub Actions | Next.js · Tailwind · Framer Motion |
+| **Restaurant POS** | Sistem pemesanan berbasis QR untuk restoran | React · Firebase |
+
+---
 
 ## 📊 GitHub Stats
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Idoo0oo&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Idoo0oo's GitHub Stats" />
-    </td>
-    <td align="center" style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idoo0oo&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## 🔗 Let's Connect!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Idoo0oo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Idoo0oo&layout=compact&theme=tokyonight&hide_border=true)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mhmmditto.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mhmmditto.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+</div>
 
 ---
+
 <div align="center">
-  <i>Sedang meracik kopi dan merangkai kode untuk project selanjutnya. ☕✨</i>
+<sub>Open for freelance. DM me.</sub>
 </div>
