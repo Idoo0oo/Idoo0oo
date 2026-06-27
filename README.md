@@ -14,6 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/→_Portfolio-000000?style=for-the-badge&logoColor=white)](https://muhammadditto.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadditto)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhmmdittoo._)
 
 </div>
 
