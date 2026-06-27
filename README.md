@@ -10,7 +10,7 @@
 </pre>
 
 ### Muhammad Ditto · Full-Stack Developer & Freelancer
-*Mahasiswa Informatika yang terlalu sering ngoding jam 2 pagi.*
+*Full-stack Developer yang terlalu sering ngoding jam 2 pagi.*
 
 [![Portfolio](https://img.shields.io/badge/→_Portfolio-000000?style=for-the-badge&logoColor=white)](https://muhammadditto.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadditto)
